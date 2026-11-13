@@ -43,5 +43,5 @@ article ID, or if anything fails, the original text is shown unchanged.
 
 ## Licences
 
-`sasha-face.js` contains Gelasio (SIL Open Font License 1.1) and `sasha-brotli.js` Google's Brotli decoder (MIT);
+`sasha-face.js` contains Geist, the body font of sasha.eu (SIL Open Font License 1.1) and `sasha-brotli.js` Google's Brotli decoder (MIT);
 their licence texts are at the top of each file.
